@@ -59,20 +59,6 @@ Set:
 
 ---
 
-## Expected Behavior
-
-* Each key press sends ASCII data to FPGA
-* FPGA processes the input
-* On ENTER, the processed value is displayed on hardware (e.g., 7-segment displays)
-
----
-
-## Notes
-
-* Baud rate must match FPGA design (9600)
-* Incorrect COM port will result in no communication
-* ENTER key is required to trigger final output
-
 # UART Hex Display System (FPGA)
 
 ## Overview
