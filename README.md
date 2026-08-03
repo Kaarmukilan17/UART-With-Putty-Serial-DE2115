@@ -57,7 +57,7 @@ Set:
 * Type characters from keyboard
 * Press **ENTER** to send newline (`0x0D`)
 
-![Demo](demo.gif)
+![Demo](demo_4.gif)
 
 ---
 
@@ -146,3 +146,5 @@ Typing characters sends ASCII data to the FPGA. Pressing ENTER triggers the disp
 ## Summary
 
 The system demonstrates UART communication, ASCII-to-hex conversion, buffering of input data, and real-time display on FPGA hardware.
+
+![Demo](demo.gif)
