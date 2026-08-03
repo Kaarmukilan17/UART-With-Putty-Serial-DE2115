@@ -57,6 +57,8 @@ Set:
 * Type characters from keyboard
 * Press **ENTER** to send newline (`0x0D`)
 
+![Demo](demo.gif)
+
 ---
 
 # UART Hex Display System (FPGA)
